@@ -15,7 +15,7 @@ A document indexing tool that processes PDFs and Markdown files to generate hier
 ## Installation
 
 ```bash
-pip install -e .
+pip install -r requirements.txt
 ```
 
 ## Configuration
